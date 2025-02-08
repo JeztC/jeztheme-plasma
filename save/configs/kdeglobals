@@ -1,0 +1,168 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=128,128,128
+BackgroundNormal=68,68,68
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=189,195,199
+ForegroundLink=212,212,212
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=250,250,250
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=66,66,66
+BackgroundNormal=51,51,51
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=136,136,136
+ForegroundLink=212,212,212
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Selection]
+BackgroundAlternate=114,114,114
+BackgroundNormal=114,114,114
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=255,255,255
+ForegroundLink=212,212,212
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=128,152,239
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=50,50,50
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=189,195,199
+ForegroundLink=212,212,212
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=50,50,50
+BackgroundNormal=20,20,20
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=255,255,255
+ForegroundLink=155,155,155
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=234,234,234
+ForegroundPositive=39,174,96
+ForegroundVisited=120,120,120
+
+[Colors:Window]
+BackgroundAlternate=66,66,66
+BackgroundNormal=30,30,30
+DecorationFocus=155,155,155
+DecorationHover=155,155,155
+ForegroundActive=155,155,155
+ForegroundInactive=136,136,136
+ForegroundLink=155,155,155
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=250,250,250
+
+[DirSelect Dialog]
+DirSelectDialog Size=960,540
+History Items[$e]=file:$HOME/Pictures/Background,file:$HOME/Pictures/Background,file:$HOME/Videos
+
+[General]
+AccentColor=155,155,155
+BrowserApplication=brave-browser.desktop
+ColorSchemeHash=d6c2bca3d5dafa327432ba9e7a28e5abb61619a3
+LastUsedCustomAccentColor=155,155,155
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintfull
+XftSubPixel=rgb
+fixed=Google Sans Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+font=Google Sans Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+menuFont=Google Sans Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+smallestReadableFont=Google Sans Medium,8,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+toolBarFont=Google Sans Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+
+[Icons]
+Theme=Win11-dark
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=false
+widgetStyle=Darkly
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=51,51,51
+activeBlend=171,171,171
+activeFont=Google Sans Medium,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Regular
+activeForeground=222,222,222
+inactiveBackground=66,66,66
+inactiveBlend=234,234,234
+inactiveForeground=234,234,234
